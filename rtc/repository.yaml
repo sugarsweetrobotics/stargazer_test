@@ -1,0 +1,15 @@
+StarGazer:
+  description: Hagisonic Star Gazer RTC
+  git: https://github.com/sugarsweetrobotics/StarGazer.git
+  hash: f38c70bd67219b4b99491dea5c6173b13e95792f
+  repo_name: StarGazer
+StarGazerMarkerToPose2D:
+  description: Translator StarGazerMarkerInfo to TimedPose2D
+  git: https://github.com/sugarsweetrobotics/StarGazerMarkerToPose2D.git
+  hash: 7d4f52268ebbfcc7681438c157f76ca284f87e31
+  repo_name: StarGazerMarkerToPose2D
+StarGazerTest:
+  description: Star Gazer Test RTC
+  git: https://github.com/sugarsweetrobotics/StarGazerTest.git
+  hash: 10aac43c2e77f91dd582a5d2e30615604649e750
+  repo_name: StarGazerTest
