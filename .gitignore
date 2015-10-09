@@ -1,0 +1,8 @@
+*.pyc
+*~
+bin/*
+*.bak
+*.BAK
+*.log
+*.lck
+rtc/*
